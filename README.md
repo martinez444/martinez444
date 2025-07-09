@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Stephany Anahí Martinez Matute
 
-<!--
-**martinez444/martinez444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Junior | Apasionado por [Tecnologías clave]
 
-Here are some ideas to get you started:
+🚀 Habilidades:
+- Lenguajes: Python, JavaScript, SQL
+- Frameworks: Flask, React, Tailwind CSS, Laravel
+- Herramientas: Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Repositorios destacados:
+- [✍️ Blog API en Flask](https://github.com/usuario/blog-api)
+- [📊 Dashboard en React + Chart.js](https://github.com/usuario/dashboard-react)
+- [🧠 IA de lenguaje de señas](https://github.com/usuario/sign-language-ai)
+
+📫 Contacto:
+- LinkedIn: www.linkedin.com/in/stephany-martinez444
+
+- Correo: stephanymartz444@gmail.com
+
