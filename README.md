@@ -1,9 +1,10 @@
 # 👋 ¡Hola! Soy Stephany Anahí Martinez Matute
 
-💻 Desarrollador Junior | Apasionado por [Tecnologías clave]
+💻 Desarrollador Junior | Apasionado por la tecnología y el aprendizaje continuo
 
 🚀 Habilidades:
-- Lenguajes: Python, JavaScript, SQL
+- Lenguajes: Python, JavaScript, PHP, JAVA, C++, React, Node.js
+- Bases de datos:  MySQL, MongoDB
 - Frameworks: Flask, React, Tailwind CSS, Laravel
 - Herramientas: Git, Docker, Linux
 
