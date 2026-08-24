@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Stephany Anahí Martinez Matute
+# 👋 ¡Hola! Soy Stephany Martinez 
 
 💻 Desarrollador Web Full Stack Junior| Apasionada por la tecnología y el aprendizaje continuo
 
