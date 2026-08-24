@@ -14,7 +14,6 @@
 - [🧠 IA de lenguaje de señas](https://github.com/usuario/sign-language-ai)
 
 📫 Contacto:
-- LinkedIn: www.linkedin.com/in/stephany-martinez444
-
+- LinkedIn: https://www.linkedin.com/in/stephanymartinez444/
 - Correo: stephanymartz444@gmail.com
 
