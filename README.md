@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Stephany Anahí Martinez Matute
 
-💻 Desarrollador Web Full Stack Junior| Apasionado por la tecnología y el aprendizaje continuo
+💻 Desarrollador Web Full Stack Junior| Apasionada por la tecnología y el aprendizaje continuo
 
 🚀 Habilidades:
 - Lenguajes: Python, JavaScript, PHP, JAVA, React, Node.js
