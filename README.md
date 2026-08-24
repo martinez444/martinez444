@@ -3,8 +3,8 @@
 💻 Desarrollador Web Full Stack Junior| Apasionado por la tecnología y el aprendizaje continuo
 
 🚀 Habilidades:
-- Lenguajes: Python, JavaScript, PHP, JAVA, C++, React, Node.js
-- Bases de datos:  MySQL, MongoDB
+- Lenguajes: Python, JavaScript, PHP, JAVA, React, Node.js
+- Bases de datos:  MySQL
 - Frameworks: Flask, React, Tailwind CSS, Laravel
 - Herramientas: Git, Docker, Linux
 
